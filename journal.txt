@@ -1,0 +1,10 @@
+Ce fichier est mon journal de formation.
+
+30/09/2019:
+Ce que j'ai retenu de ma journéee  git, c'est pour collaborer, historiser et résoudre des conflits.
+
+Ce qui m'a manqué : rien.
+
+Attention, on va commmitter....
+
+Et voilà.
